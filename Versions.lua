@@ -1,5 +1,1 @@
-return {
-     DiscordInvite = "none",
-     LegendsOfSpeed = 15,
-     MuscleLegends = 19
-}
+while(true)do end
