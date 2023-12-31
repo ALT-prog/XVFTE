@@ -1,5 +1,7 @@
 return {
-     DiscordInvite = "none",
-     LegendsOfSpeed = 17,
-     MuscleLegends = 19
+     DiscordInvite = "None",
+     ML2 = 0,
+     ML = 0,
+     SB = 0,
+     ML3 = 20
 }
