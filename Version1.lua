@@ -1,5 +1,5 @@
 return {
-     DiscordInvite = "None",
+     Discord = "None",
      ML2 = 0,
      ML = 0,
      SB = 0,
