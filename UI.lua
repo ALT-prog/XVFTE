@@ -808,7 +808,7 @@ Windows.Position = UDim2.new(0, 20, 0, 20)
 Windows.Size = UDim2.new(1, 20, 1, -20)
 
 --[[ Script ]]--
-script.Parent = imgui
+--script.Parent = imgui
 
 local UIS = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
@@ -1754,7 +1754,7 @@ function library:AddWindow(title, options)
 									"null",
 									"deleted"
 								}
-							end
+							end	
 
 							for i,v in pairs(getgenv())do
 							    if(not global_env[i])then
